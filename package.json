@@ -1,0 +1,19 @@
+{
+    "name": "bicycle-theme",
+    "displayName": "Bicycle",
+    "description": "Playing card style theme using the Bicycle palette",
+    "version": "0.1",
+    "author": { "name": "Braquen", "url": "https://braquen.itch.io/" },
+    "contributors": [
+    ],
+    "publisher": "Braquen",
+    "license": "CC-BY-4.0",
+    "categories": [
+      "Themes"
+    ],
+    "contributes": {
+      "themes": [
+        { "id": "Bicycle", "path": "." }
+      ]
+    }
+  }
