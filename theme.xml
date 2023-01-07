@@ -38,7 +38,7 @@
         <color id="textbox_code_face" value="#8f9bf6" />
         <color id="entry_suffix" value="#f0f0f0" />
         <color id="link_text" value="#ab4646" />
-        <color id="link_hover" value="#8f9bf6" />
+        <color id="link_hover" value="#f0f0f0" />
         <color id="button_normal_text" value="#161616" />
         <color id="button_hot_text" value="#161616" />
         <color id="button_selected_text" value="#f0f0f0" />
