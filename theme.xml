@@ -81,7 +81,7 @@
         <color id="workspace" value="#8f9bf6" />
         <color id="workspace_text" value="#ab4646" />
         <color id="workspace_link" value="#ab4646" />
-        <color id="workspace_link_hover" value="#8f9bf6" />
+        <color id="workspace_link_hover" value="#f0f0f0" />
         <color id="timeline_normal" value="#8f9bf6" />
         <color id="timeline_normal_text" value="#161616" />
         <color id="timeline_hover" value="#f0f0f0" />
